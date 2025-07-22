@@ -1,11 +1,12 @@
 profiles:
-  ood101.deac.wfu.edu: &ood101_profile
+  ood101.school.edu: &ood101_profile
     dashboard_title: "OOD101 Class Portal"
     brand_bg_color: "#2c4b8c"
     dashboard_logo: "/public/logo-ood101.png"
     pinned_apps:
       - "sys/jupyter"
       - "sys/rstudio"
+      - "sys/matlab"
     pinned_apps_group_by:
     dashboard_layout:
       rows:
