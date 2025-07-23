@@ -1,6 +1,6 @@
 # Custom Class Portals in Open OnDemand
 
-WFU HPC Team (deac-help@wfu.edu)
+WFU HPC Team (deac-help@wfu.edu)<br>
 Primary Contact: Sean Anderson (anderss@wfu.edu)
 
 <p align="center">
