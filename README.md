@@ -1,5 +1,8 @@
 # Custom Class Portals in Open OnDemand
 
+WFU HPC Team (deac-help@wfu.edu)
+Primary Contact: Sean Anderson (anderss@wfu.edu)
+
 <p align="center">
 <img src="images/portal-ood101.png" alt="PHY262 Class Portal" width="640"/>
 </p>
